@@ -1,7 +1,7 @@
 {
   "version": "Companion embedded peer mode",
-  "sourceCommit": "f730135d6f082c66b708c6d5e540503a50bfe9e2",
-  "buildWorkflowRun": 39887421449,
+  "sourceCommit": "71641a36970e58a279ed2fe8ac06bc8b7673c5b7",
+  "buildWorkflowRun": 39887934092,
   "requiresGenieHttpHost": false,
   "discovery": "encrypted ephemeral public Nostr introductions",
   "transport": "encrypted direct WebRTC to desktop"
