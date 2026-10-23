@@ -1,9 +1,10 @@
 {
-  "source": "f8b0c84dcb3bf4f97434e409d963243a7707e54b",
-  "transport": "direct-https",
-  "discoveryRelay": false,
+  "build": "peer-v2-production",
+  "transport": "webrtc-peer-with-e2ee-fallback",
+  "discoveryRelay": true,
   "trafficRelay": false,
-  "requiresReachableComputer": true,
-  "requiresTrustedTLS": true,
-  "physicalCellularVerified": false
+  "requiresReachableComputer": false,
+  "requiresTrustedTLS": false,
+  "cellularEnabled": true,
+  "updatedAt": "2026-10-23T07:30:00Z"
 }
