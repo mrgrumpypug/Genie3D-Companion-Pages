@@ -1,6 +1,8 @@
 {
-  "version": "Companion 2.0 Light",
-  "sourceCommit": "d318bc54f138b96e8c9ae53e2136ff7c3b007d88",
-  "buildWorkflowRun": 39875729472,
-  "pairingServiceConfigured": false
+  "version": "Companion embedded peer mode",
+  "sourceCommit": "f730135d6f082c66b708c6d5e540503a50bfe9e2",
+  "buildWorkflowRun": 39887421449,
+  "requiresGenieHttpHost": false,
+  "discovery": "encrypted ephemeral public Nostr introductions",
+  "transport": "encrypted direct WebRTC to desktop"
 }
