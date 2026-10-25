@@ -1,0 +1,24 @@
+{
+  "sourceCommit": "927fccd49a36d4073c520d3fc25f41f531198b2e",
+  "sourceBranch": "codex/companion-workspace",
+  "desktop": "Requires the updated desktop checkout; packaged desktop release not produced by this preview.",
+  "applicationDataRequiresDirect": true,
+  "legacyEncryptedRpcFallbackPresent": true,
+  "existingDiscovery": "Nostr",
+  "existingStun": true,
+  "physicalDeviceVerified": false,
+  "files": {
+    "apple-touch-icon.png": "e0f913418c06baba24c5f3f5967bee4a0515857e43485179f9dbd422b8f2c314",
+    "favicon-16.png": "90b57217b7d2449b2b7c98e7f390cf3793e8b8869393c9b125d6581defb221fb",
+    "favicon-32.png": "52246accd843dd6b79bfd67e9db008f741a522869e63dc94d153e8305ada2cd2",
+    "favicon-48.png": "fc34bc97c4b757ed2ed72967c14f88a6002aecbfa446ae3381bd02d62d97c345",
+    "icon-192.png": "1609dd87d23693fc09d02d47acd3a51f605199f21c694890d9690e683ab94fce",
+    "icon-512.png": "5a8f5f905278d4d18cc9e1b69135e5fdb5ca18ad414fd28a23291cc1210b5b57",
+    "icon-maskable-192.png": "1609dd87d23693fc09d02d47acd3a51f605199f21c694890d9690e683ab94fce",
+    "icon-maskable-512.png": "5a8f5f905278d4d18cc9e1b69135e5fdb5ca18ad414fd28a23291cc1210b5b57",
+    "index.html": "492dba0932f3d6db9bda293e93ef4dfb455530a7caef1a32b275c4b9ddb77228",
+    "manifest.webmanifest": "a5b7cfef477f535ed1ce3da5d5a9366aab7d8efbfb4b698939702f5c89e5141d",
+    "assets/index-BBOe6GIB.css": "aa9cff522cb0134f8397b22bac783db23428edc3798ed2afad782887ebc43f88",
+    "assets/index-D2Lq3IHu.js": "06343726d9ff45112665ec3b604867ae06dae12994047164e568cdaec4e052a2"
+  }
+}
