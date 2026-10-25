@@ -1,5 +1,5 @@
 {
-  "build": "peer-v2-pwa-heartbeat-fix",
+  "build": "peer-v2-connection-diagnostics-2",
   "transport": "webrtc-peer-with-e2ee-fallback",
   "discoveryRelay": true,
   "trafficRelay": true,
@@ -7,7 +7,8 @@
   "requiresTrustedTLS": false,
   "cellularEnabled": true,
   "updatedAt": "2026-10-25",
-  "sourceCommit": "e6a9f72271730851054c453d58c6e89aa4005b43",
+  "sourceCommit": "d51a1744575c878f02232032342c76bf31e20599",
   "physicalCellularVerified": false,
-  "fix": "Accept approved peer pairing for authenticated heartbeat, uploads and generation; preserve saved pairings."
+  "fix": "Show actual encrypted heartbeat failure and preserve saved pairing. Phone-specific failure still under diagnosis.",
+  "connectionCheck": "25 Oct \u00b7 connection check 2"
 }
