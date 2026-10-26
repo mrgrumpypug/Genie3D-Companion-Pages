@@ -1,5 +1,5 @@
 {
-  "sourceCommit": "e1f6e7f271739bda01ba23ff3357595276b01b00",
+  "sourceCommit": "c2ed1274287e40eccae0529a00b71108e72cbbb9",
   "sourceBranch": "codex/companion-workspace",
   "desktop": "Requires the updated desktop checkout; packaged desktop release not produced by this preview.",
   "applicationDataRequiresDirect": true,
@@ -16,10 +16,16 @@
     "icon-512.png": "5a8f5f905278d4d18cc9e1b69135e5fdb5ca18ad414fd28a23291cc1210b5b57",
     "icon-maskable-192.png": "1609dd87d23693fc09d02d47acd3a51f605199f21c694890d9690e683ab94fce",
     "icon-maskable-512.png": "5a8f5f905278d4d18cc9e1b69135e5fdb5ca18ad414fd28a23291cc1210b5b57",
-    "index.html": "70a0c30b7b6f430e66ab8f1bcdae00460dfe67654c5e13a497de5e825cb1b594",
+    "index.html": "7b91043f716c8c50613e9bb7469045e446ec5d8a6489e30f8dddc7ec1a037e4c",
     "manifest.webmanifest": "a5b7cfef477f535ed1ce3da5d5a9366aab7d8efbfb4b698939702f5c89e5141d",
-    "assets/index-DdxaZjso.css": "bf0d1441a7bb957ab034eb5ee7effda78572ebda80d059d9770caa4a133d2e87",
-    "assets/index-hvI2HKJw.js": "15ef05cd0bb61dbb24d86bff3f84d78b703dc1ab50327a1f6c7e5cf4b1a9d413"
+    "assets/index-B_r0TA2G.js": "eb49bdca21c9eff752867beeac763a3d95f522d68fb13f2cea400bc5299d5e6b",
+    "assets/index-DwQ_iaJp.css": "9a07f38bc50053474463258e4fa17adeee1c537d7f6a498b24f6d707ae37aaa0"
   },
-  "nativeBuildSourceCommit": "927fccd49a36d4073c520d3fc25f41f531198b2e"
+  "nativeBuildSourceCommit": "c2ed1274287e40eccae0529a00b71108e72cbbb9",
+  "iosMinimum": "17.0",
+  "iosSdk": "26.x",
+  "nativeNavigationSimulators": [
+    "iOS26.2",
+    "iOS18.6"
+  ]
 }
